@@ -1,0 +1,9 @@
+body {
+  background-image: url("images/gunungbg.jpg"); /* Tentukan gambar latar belakang */
+  background-attachment: fixed; /* Membuat latar belakang statis */
+  background-size: cover; /* Agar gambar menutupi seluruh area */
+  background-position: center; /* Menempatkan gambar di tengah */
+  background-repeat: no-repeat; /* Menghindari pengulangan gambar */
+  margin: 0;
+  height: 100vh; /* Pastikan halaman mengisi seluruh layar */
+}
